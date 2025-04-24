@@ -1,0 +1,14 @@
+com\socialservice\client\SocialServiceClient.class
+com\socialservice\servlet\JobRequestServlet.class
+com\socialservice\model\Job.class
+com\socialservice\servlet\ProfileServlet.class
+com\socialservice\model\User.class
+com\socialservice\servlet\JobServlet.class
+com\socialservice\model\JobRequest.class
+com\socialservice\model\Profile.class
+com\socialservice\repository\JobRequestRepository.class
+com\socialservice\filter\AuthFilter.class
+com\socialservice\repository\ProfileRepository.class
+com\socialservice\repository\UserRepository.class
+com\socialservice\servlet\UserServlet.class
+com\socialservice\repository\JobRepository.class
